@@ -1,15 +1,3 @@
-_C0 Camera Angle and Damper GT4
-_L 0x004F3100 0x42F00000
-_L 0x004F3108 0x41700000
-
-_C0 Camera Angle and Damper GT3
-_L 0x004F3100 0x41F00000
-_L 0x004F3108 0x41200000
-
-_C0 Camera Angle and Damper Default
-_L 0x004F3100 0x42C80000
-_L 0x004F3108 0x42200000
-
 _C0 Change any car to ?
 _L 0x20132540 0x0A200005
 _L 0x20000014 0x2419VVVV // Swap Here(VVVV Part)
